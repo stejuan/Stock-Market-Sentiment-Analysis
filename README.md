@@ -3,7 +3,7 @@ By: Steven Chung
 
 ## Overview
 
-As someone who recently got into the stock market in mid-2021, I decided to intersect my recently-gained knowledge in NLP/ML (i.e. word embeddings, classification, text preprocessing, etc.) and finance in order to conduct sentiment analysis on stock market tweets. 
+As someone who recently got into the stock market in mid-2021, I decided to apply my recently-gained knowledge in NLP/ML (i.e. word embeddings, classification, text preprocessing, etc.) in a finance context by conducting sentiment analysis on stock market tweets. 
 
 I was curious to see if I could build a reasonably accurate classifier and find patterns between the semantics/meaning of the tweets and their corresponding sentiment.
 

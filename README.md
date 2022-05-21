@@ -23,11 +23,11 @@ Perhaps the most tedious part of this project, I conduced some text preprocessin
 
 ### Model
 
-After splitting the data into a training and test set, text preprocessing, and creating word embeddings, I trained a few classification models (Random Forest, Decision tree, and XGBoost). They all had similar predictive accuracy, with XGBoost coming in with the highest predictive accuracy at 72%. 
+After splitting the data into a training and test set, text preprocessing, and creating word embeddings, I trained a few classification models (Random Forest and XGBoost). They both had similar predictive accuracy, with XGBoost coming in with the highest predictive accuracy at 72%. 
 
 ### Dash Web Application
 
-I created a web application using Python's Dash library in order to visualize the results from my exploratory data analysis and model evaluation. 
+I created a web application using Python's Dash library in order to visualize the results from my exploratory data analysis and model evaluation.
 
 ### Conclusion and Remarks
 
